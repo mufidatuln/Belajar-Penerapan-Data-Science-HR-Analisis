@@ -1,6 +1,7 @@
 # Proyek Akhir : HR Analisis Employ Attrition in Company Multinasional
 
 Nama : Mufidatul Ngazizah
+
 Email : mufidatul.ngazizah@gmail.com
 
 ## Businees Understanding
@@ -13,6 +14,7 @@ Untuk mencegah hal ini semakin parah, manajer departemen HR ingin meminta bantua
 
 ## Permasalahan Bisnis
 Masalah bisnis yang akan diselesaikan adalah
+
 1. Lebih dari 10% karyawan Jaya Jaya Maju mengalami attrition (keluar dari perusahaan) karena perusahaan cukup kesulitan mengelola karyawan
 2. Departemen HR tidak memiliki dashboard yang dapat memantau dan memonitor pengelolaan karyawan termasuk penyebab karyawan yang melakukan attritiion.
 
@@ -33,11 +35,20 @@ Sumber Data : Github https://github.com/dicodingacademy/dicoding_dataset/tree/ma
 Setup environment:
 1. Pengguna membuka terminal dengan root yang telah ditentukan
 2. Pengguna mengistall virtual env
-   
-3. Penguna membuat virtual env
-4. Melakukan install library yang digunakan sesuai requirement.txt
-5. Menjalankan jupiter notebook
-6. Melakukan input data baru yang ingin diprediksi
+   '''
+   py -m pip install virtualenv
+  '''
+4. Penguna membuat virtual env
+   '''
+   python -m venv myenv
+   '''
+5. Jalankan virtual env
+   '''
+   myenv\Script\activate
+   '''
+7. Melakukan install library yang digunakan sesuai requirement.txt
+8. Menjalankan jupiter notebook
+9. Melakukan input data baru yang ingin diprediksi
 
 ### Metabase
 Melakukan upload dataset ke Supabase untuk digunakan membuat dashboard di Metabase
@@ -81,5 +92,11 @@ Dataset yang berisi faktor-faktor yang mempengaruhi attrition
     YearsInCurrentRole - Years in the current role
     YearsSinceLastPromotion - Years since the last promotion
     YearsWithCurrManager - Years with the current manager
+    
 '''
+## Business Dashboard
 
+![Dashboard HR.](https://github.com/mufidatuln/Belajar-Penerapan-Data-Science-HR-Analisis/blob/main/HR%20Analysis_page-0001.jpg)
+
+Analisis Dashboard Data yang digunakan berfokus pada karyawan yang melakukan attrition (attrition = 1 or Yes) dengan tujuan mengetahui faktoe yang memnyebabkan keluarnya karyawan dari perusahaan.
+1. 
