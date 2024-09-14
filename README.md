@@ -96,7 +96,7 @@ Dataset yang berisi faktor-faktor yang mempengaruhi attrition
 '''
 ## Business Dashboard
 
-![Dashboard HR.](https://github.com/mufidatuln/Belajar-Penerapan-Data-Science-HR-Analisis/blob/main/HR%20Analysis_page-0001.jpg)
+![Dashboard HR.](https://github.com/mufidatuln/Belajar-Penerapan-Data-Science-HR-Analisis/blob/main/HR%20Analysis.jpg)
 
 Analisis Dashboard Data yang digunakan berfokus pada karyawan yang melakukan attrition (attrition = 1 or Yes) dengan tujuan mengetahui faktor yang memnyebabkan keluarnya karyawan dari perusahaan.
 1. Jumlah Karyawan yang keluar dari perusahaan tersebut sejumlah 179 karyawan yang mana adalah 17% dari semua karyawan.
