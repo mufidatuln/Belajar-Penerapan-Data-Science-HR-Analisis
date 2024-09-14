@@ -175,3 +175,8 @@ Berdasarkan analisis yang dilakukan terdahap data attrition karyawan, terdapat f
 
 
 # Rekomendasi Action 
+
+1. Memperbaiki masalah over time pada karyawan dengan mengurangi jam lembur dan menerapkan kebijakan yang dapat mengatasi hal tersebut
+2. Fokus dengan karyawan yang sudah memiliki kinerja bagus dengan mengidentifikasi penyebab ketidakpuasan karyawan.
+3. Menaikan gaji karyawan dengan performa sangat baik (excellent) sehingga sesuai dengan ekspektasi gaji yang mereka harapkan dan sesuai dengan pekerjaan yang telah dilakukan.
+4. Melakukan survey pada karyawan untuk mengetahui penyebab secara spesifik terkait kepuasan karyawan pada lingkungan kerja dengan menyebarkan pertanyan spesifik dan mendengarkan aspirasi maupun saran dari karyawan tersebut.
