@@ -30,7 +30,7 @@ Masalah bisnis yang akan diselesaikan adalah
    * Dashboard
 
 ## Persiapan
-Sumber Data : Github https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee
+Sumber Data : [Github](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee)
 
 Setup environment:
 1. Pengguna membuka terminal dengan root yang telah ditentukan
@@ -98,5 +98,19 @@ Dataset yang berisi faktor-faktor yang mempengaruhi attrition
 
 ![Dashboard HR.](https://github.com/mufidatuln/Belajar-Penerapan-Data-Science-HR-Analisis/blob/main/HR%20Analysis_page-0001.jpg)
 
-Analisis Dashboard Data yang digunakan berfokus pada karyawan yang melakukan attrition (attrition = 1 or Yes) dengan tujuan mengetahui faktoe yang memnyebabkan keluarnya karyawan dari perusahaan.
-1. 
+Analisis Dashboard Data yang digunakan berfokus pada karyawan yang melakukan attrition (attrition = 1 or Yes) dengan tujuan mengetahui faktor yang memnyebabkan keluarnya karyawan dari perusahaan.
+1. Jumlah Karyawan yang keluar dari perusahaan tersebut sejumlah 179 karyawan yang mana adalah 17% dari semua karyawan.
+2. Karyawan yang mengalami attrition lebih banyak merupakan karyawan bergender male (laki-laki)
+3. Karyawan sejumlah 98 keluar dan mengalami overtime dalam bekerja. Dari total semua karyawan yang keluar di dominasi oleh karyawan yang bekerja overtime.
+4. Karyawan yang keluar merupakan karyawan yang jarang melakukan bisnis travel.
+5. Performance rating semua karyawan yang keluar tidak memiliki jejak performa buruk. Semua berada pada niali 3 dan 4 yang artinya 3-Excellent, 4-Outstanding.
+6. Karyawan yang keluar didominasi oleh karyawan yang memiliki pendapatan bulanan di range 1000$ sampai 8000$
+7. Berdasarkan analisis yang dilakukan mayoritas karyawan yang keluar memiliki tingkatan  Kepuasan Terhadap Lingkungan Kerja (EnvironmentSatisfaction) yang 1 = rendah (Low) terhadap kepuasan lingkungan kerja.
+8. Berdasarkan analisis yang dilakukan mayoritas karyawan yang keluar memilki riwayat pendidikan dengan nilai 3 yaitu sebagai  Sarjana (Bachelor) 
+9. Berdasarkan grafik karyawan yang keluar di dominasi oleh karyawan pada departement Research & Development.
+10. Status Pernikahan karyawan yang keluar di dominasi oleh status Single.
+11. Berdasarkan analisis yang dilakukan mayoritas karyawan yang keluar berada pada usia 30-35 sebanyak 44 orang diikuti usia 25-30 sebanyak 41 orang.
+12. Berdasarkan grafik departemen Research & Development merupakan sumber terbesar karyawan yang keluar dari perusahaan.
+13. Berdasarkan analisis yang dilakukan mayoritas karyawan yang keluar berjarak 2-3 KM dari rumah sebanyak 22 orang, diikuti jarak 1-2 KM sebanyak 20 orang.
+
+## Conclusion
